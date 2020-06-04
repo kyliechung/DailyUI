@@ -17,3 +17,9 @@ I redesigned Preciousstar's landing page. The aim was to declutter the landing p
 I swapped out some of the info currently on her website to show the main product they sell and put her award and recognition badges on the top left to show off! I think having the badges on the top, instead of at the very bottom, would reflect well on users visiting her site.
 
 [Landing Page Challenge](https://dribbble.com/shots/11869354-DailyUI-003-Landing-page?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20003%20Landing%20page&utm_medium=Social_Share)
+
+### 004 - Design a calculator.
+For this challenge I chose to design a calculator for a phone.
+
+[Calculator Challenge](https://dribbble.com/shots/11895254-DailyUI-004-Calculator-Challenge?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20004%20Calculator%20Challenge&utm_medium=Social_Share)
+
