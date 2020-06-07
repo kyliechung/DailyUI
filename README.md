@@ -1,6 +1,6 @@
 # DailyUI
-## my DailyUI's 100 day challenges
-uploading screenshots and gifs/videos onto my Dribble account: https://dribbble.com/kyliechung13
+## DailyUI 100 day challenge
+uploading screenshots and gifs/videos of the challenges onto my Dribble account: https://dribbble.com/kyliechung13
 
 ### 001 - Create a sign up page, modal, form, or app screen related to signing up for something.
 I designed a mobile sign up page for Paisano's pizza. I used a fanned our triangular pizza-slice-shape for the background in the second page.
@@ -23,3 +23,10 @@ For this challenge I chose to design a calculator for a phone.
 
 [Calculator Challenge](https://dribbble.com/shots/11895254-DailyUI-004-Calculator-Challenge?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20004%20Calculator%20Challenge&utm_medium=Social_Share)
 
+### 005 - Design an App Icon.
+I made an app icon for a menstrual app that would update to show how many days it was into the user's cycle. The number on the icon is an example that it is 28 days into the cycle.
+Depending on the user they can use that number as a guide to estimate or use as a reminder for when their next period is about to start.
+
+I took this inspiration from Apple's calendar app, which shows the day and date on the app from the home screen without having to click into the app to find out.
+
+[App Icon Challenge](https://dribbble.com/shots/11945897-DailyUI-005-App-Icon?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20005%20App%20Icon&utm_medium=Social_Share)
