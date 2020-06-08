@@ -30,3 +30,12 @@ Depending on the user they can use that number as a guide to estimate or use as 
 I took this inspiration from Apple's calendar app, which shows the day and date on the app from the home screen without having to click into the app to find out.
 
 [App Icon Challenge](https://dribbble.com/shots/11945897-DailyUI-005-App-Icon?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20005%20App%20Icon&utm_medium=Social_Share)
+
+### 006 - Design a User Profile.
+I took some inspiration from recipe apps and dating apps to design an app for foodies to meet up together and rate the restaurants they've been to together.
+
+This app would provide a way to meet new people who like similar foods or who want to try similar new dishes and restaurants. It would also provide a way to see suggested restaurants and user's reviews of their experiences there.
+
+I focused on giving the app a clean look so the pictures that the user's take will look brighter and better on the page.
+
+[User Profile](https://dribbble.com/shots/11960147-DailyUI-006-User-Profile?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20006%20User%20Profile&utm_medium=Social_Share)
