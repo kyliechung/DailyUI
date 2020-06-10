@@ -39,3 +39,10 @@ This app would provide a way to meet new people who like similar foods or who wa
 I focused on giving the app a clean look so the pictures that the user's take will look brighter and better on the page.
 
 [User Profile](https://dribbble.com/shots/11960147-DailyUI-006-User-Profile?utm_source=Clipboard_Shot&utm_campaign=kyliechung13&utm_content=DailyUI%20006%20User%20Profile&utm_medium=Social_Share)
+
+### 007 - Design a Setting Page.
+
+### 008 - Design a 404 Error Page.
+Designing a 404 Error Page for a surf shop. I kept with a simple approach but made sure the navigation bar is clearly visible and have a "Go Back" button available. 
+
+[404 Page]()
